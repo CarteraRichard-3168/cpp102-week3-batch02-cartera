@@ -1,0 +1,6 @@
+Step 1 : Start
+Step 2 : Ask the user to input how much their purchase costs. Store it as QTY1.
+Step 3 : Check if QTY1 is >= 1000
+Step 4 : If yes, display "Eligible for discount."
+Step 5 : If no, display "Not eligible for discount."
+Step 6 : End.
