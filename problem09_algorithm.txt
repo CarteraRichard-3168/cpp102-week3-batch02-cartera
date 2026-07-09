@@ -1,0 +1,7 @@
+Step 1 : Start.
+Step 2 : Ask the user to input their balance. Store it as Bal1.
+Step 3 : Check if Bal1 is <> or = 0.
+Step 4 : If > 0, display "Positive balance!"
+Step 5 : If < 0, display "Negative balance!"
+Step 6 : If = 0, display "Zero balance!"
+Step 7 : End.

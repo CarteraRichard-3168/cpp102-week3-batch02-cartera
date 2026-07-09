@@ -1,0 +1,9 @@
+START
+INPUT Bal1
+IF Bal1 > 0 THEN
+DISPLAY "Positive Balance!"
+ELSE IF Bal = 0 THEN
+DISPLAY "Zero Balance!"
+ELSE
+DISPLAY "Negative balance"
+END

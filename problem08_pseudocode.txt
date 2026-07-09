@@ -4,4 +4,5 @@ IF QTY1 >= 1000 THEN
 DISPLAY "Eligible for discount"
 ELSE
 DISPLAY "Not eligible for discount"
+END IF
 END
