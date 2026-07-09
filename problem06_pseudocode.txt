@@ -1,0 +1,8 @@
+START
+INPUT A1
+INPUT D2
+INPUT C1
+INPUT C2
+PROCESS total = (A1 * D2) + (C1 * C2) / 4
+DISPLAY total
+END
