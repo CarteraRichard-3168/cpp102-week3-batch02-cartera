@@ -1,0 +1,6 @@
+Step 1 : Start.
+Step 2 : Ask the user to enter the base. Store it as Val1.
+Step 3 : Ask the user to enter the height. Store it as Val2.
+Step 4 : Compute the area = Val1 * Val2 / 2.
+Step 5 : Display area
+Step 6 : End.
