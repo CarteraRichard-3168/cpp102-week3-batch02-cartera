@@ -1,0 +1,7 @@
+START
+INPUT P1
+INPUT P2 
+INPUT P3 
+PROCESS average = ((P1 * 0.2) + (P2 * 0.3) + (P3 * 0.5)) * 100
+DISPLAY average
+END
