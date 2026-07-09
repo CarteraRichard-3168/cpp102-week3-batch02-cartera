@@ -1,0 +1,6 @@
+START 
+INPUT NUM1
+INPUT NUM2
+PROCESS difference = NUM1 - NUM2
+DISPLAY difference 
+END

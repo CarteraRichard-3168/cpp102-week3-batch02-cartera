@@ -1,0 +1,6 @@
+Step 1 : Start.
+Step 2 : Ask the user to enter their weekly budget. Store it as NUM1.
+Step 3 : Ask the user to enter their weekly expenses. Store it as NUM2.
+Step 4 : Compute difference = NUM1 - NUM1
+Step 5 : Display difference as balance.
+Step 6 : End.
